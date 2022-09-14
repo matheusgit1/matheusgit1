@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**matheusgit1/matheusgit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 🚀 Sobre mim
 Eu sou uma pessoa desenvolvedora full-stack, técnico em adminstração, engenheiro de automação em formação, e cientista de dados em formação. Sempre busco por exelência e entregar o máximo com a maior qualidade, sem, claro, deixar de lado boas praticas.
 
@@ -43,4 +40,3 @@ https://www.instagram.com/ap_matheus/
 - 📫 How to reach me: perera.matheusalves@gmail.com/+5527997822665
 - 😄 Pronouns: ...
 - ⚡ Fun fact: im so shy
-
