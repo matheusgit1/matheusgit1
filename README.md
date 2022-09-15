@@ -4,7 +4,9 @@
 Eu sou uma pessoa desenvolvedora full-stack, técnico em adminstração, engenheiro de automação em formação, e cientista de dados em formação. Sempre busco por exelência e entregar o máximo com a maior qualidade, sem, claro, deixar de lado boas praticas.
 
 
-Atualmente sou estágiario da área de desenvolvimento de softwares usando as stacks mais modernas e requisitadas, como: nodeJS, typeScript, css, html, nestJs, NextJs, aws-cloud, ferramentas de DevOps, testes unitários e de integração. Atuando também em diferentes setores, como educação e telecomunicação.
+Atualmente sou estágiario da área de desenvolvimento de softwares.
+
+Tenho habilidades com  as stacks mais modernas, como :nodeJS, typeScript, css, html, nestJs, NextJs, aws-cloud, ferramentas de DevOps, testes unitários e de integração. Atuando também em diferentes setores, como educação e telecomunicação.
 
 Atualmente, também, em fase final de curos superior, com desenvolvimentro de tcc ná area de automação e visão computacional automotiva.
 ## 🛠 Habilidades
