@@ -37,6 +37,6 @@ https://www.instagram.com/ap_matheus/
 - 👯 I’m looking to collaborate on my self and everyone
 - 🤔 I’m looking for help with aws
 - 💬 Ask me about me
-- 📫 How to reach me: perera.matheusalves@gmail.com/+5527997822665
+- 📫 How to reach me: pereira.matheusalves@gmail.com/+5527997822665
 - 😄 Pronouns: ...
 - ⚡ Fun fact: im so shy
