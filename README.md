@@ -24,7 +24,7 @@ modelos de machine learning
 baseados em regressão e classificação,
 e, exploração analítica de dados
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgit1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgit1&layout=demo)]
 
 ## 🔗 Links
 
