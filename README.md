@@ -26,7 +26,7 @@ e, exploração analítica de dados
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusgit1&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgit1&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgit1&langs_count=8)]([https://github.com/anuraghazra/](https://github.com/matheusgit1/github-readme-stats)
 
 ## 🔗 Links
 
