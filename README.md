@@ -1,14 +1,15 @@
 ### Hi there 👋
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack, técnico em adminstração, engenheiro de automação em formação, e cientista de dados em formação. Sempre busco por exelência e entregar o máximo com a maior qualidade, sem, claro, deixar de lado boas praticas.
 
+Eu sou uma pessoa desenvolvedora full-stack, técnico em administração, engenheiro de automação em formação, e cientista de dados em formação. Sempre busco por excelência e entregar o máximo com a maior qualidade, sem claro, deixar de lado boas práticas. 
 
-Atualmente sou estágiario da área de desenvolvimento de softwares.
+Atualmente sou desenvolvedor full stack júnior da área de desenvolvimento de softwares, mirando senioridades cada vez mais altas. 
 
-Tenho habilidades com  as stacks mais modernas, como :nodeJS, typeScript, css, html, nestJs, NextJs, aws-cloud, ferramentas de DevOps, testes unitários e de integração. Atuando também em diferentes setores, como educação e telecomunicação.
+Tenho habilidades com as stacks mais modernas, como :nodeJS, typeScript, css, html, nestJs, NextJs, aws-cloud, bancos de dados não relacionais como mongodb e redis, bancos de dados relacionais como MySql, postgres,  docker, testes unitários e de integração. Atuando também em diferentes setores, como educação e telecomunicação. 
 
-Atualmente, também, em fase final de curos superior, com desenvolvimentro de tcc ná area de automação e visão computacional automotiva.
+Atualmente, também, em fase final de curso superior, com desenvolvimento de trabalho de conlusão de curso na área de visão computacional automotiva. 
+
 ## 🛠 Habilidades
 Javascript,
 HTML,
